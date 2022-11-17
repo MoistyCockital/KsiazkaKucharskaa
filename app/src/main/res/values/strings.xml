@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ksiazka kucharska</string>
+    <string-array name="typ">
+        <item>napoje</item>
+        <item>bomby</item>
+        <item>rasy ludzi</item>
+        <item>psy</item>
+    </string-array>
+</resources>
